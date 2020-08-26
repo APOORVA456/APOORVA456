@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=apoorva456 alt=apoorva456/> </p>
 
-- 💬 Ask me about **Angular, Python**
-
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Tornado, Angular, Javascript**
+- 💬 Ask me about **Tornado, Angular, Python, Javascript**
 
 - 📫 How to reach me **apoorva.8765@gmail.com**
 
