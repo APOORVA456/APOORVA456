@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorva Singh</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva456" alt=apoorva456/> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=apoorva456&color=green" alt=apoorva456/> </p>
 
 - 🌱 I’m currently learning **Node.js**
 
